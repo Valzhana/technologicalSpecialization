@@ -1,0 +1,4 @@
+
+INFO - 2023-09-05 20:51:46,702 - day=10, month=5, year=1788, leap_year=True
+INFO - 2023-09-05 20:51:46,702 - Such a date exists
+INFO - 2023-09-05 20:51:46,715 - day=29, month=4, year=1050, leap_year=False
